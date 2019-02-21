@@ -3,7 +3,7 @@ title: "About me"
 date: 2019-01-20T12:56:28+05:30
 ---
 
-I'm not that good at describing myself so I let a person who cannot draw Santa Claus do it:
+I'm not that good at describing myself so I let a friend who cannot draw Santa Claus do it:
 
 (definitely not edited to make myself look better)
 
