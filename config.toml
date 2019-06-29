@@ -14,7 +14,7 @@ theme                   = "sam"
 #     favicon             = "sam.ico"
     homepage            = "home"                        # What to call the home page link
     galleryFolder       = "images/"                     # Where you've put your images, after "/content/gallery/"
-    clickablePhotos     = false                          # Allow links to the full size images
+    clickablePhotos     = true                          # Allow links to the full size images
     smallPreviewImages   = true                         # Show small images from the subfolder instead of the big versions in the gallery
                                                          # Note: This will only become active if clickablePhotos is also true.
     smallImagesSubfolder = "small/"                      # The subfolder for the small versions of the images under the gallery (with trailing slash)
@@ -22,7 +22,7 @@ theme                   = "sam"
     footerText          = "i should put a copyright message here i think."
 
 # Metadata
-    description         = "A new Hugo site."            # Max 160 characters show in search results
+    description         = "Atharva's Blog"            # Max 160 characters show in search results
     twitterCard         = "summary_large_image"         # Card value “summary”, “summary_large_image”, “app”, or “player”
 #     primaryImage        = "tn.png"                     # Image that shows on Twitter cards and OpenGraph links
 
@@ -37,3 +37,6 @@ theme                   = "sam"
 [[params.mainMenu]]
     link = "/aboutme"
     text = "who dis?"
+
+[taxonomies]
+    tag = "tags"
