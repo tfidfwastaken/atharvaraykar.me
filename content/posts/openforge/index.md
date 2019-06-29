@@ -2,7 +2,7 @@
 title: "This Exists in India: Openforge"
 date: 2019-06-27T15:57:20+05:30
 tags: ["opensource", "india"]
-draft: true
+draft: false
 ---
 
 I had a random thought – what if the Indian Government open-sourced their software? A quick search showed me that they actually do, to some extent.
