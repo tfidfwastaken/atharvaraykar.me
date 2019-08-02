@@ -31,7 +31,7 @@ theme                   = "sam"
     text = "posts"
 
 [[params.mainMenu]]
-    link = "/static/resume.pdf"
+    link = "/resume.pdf"
     text = "résumé"
 
 [[params.mainMenu]]
