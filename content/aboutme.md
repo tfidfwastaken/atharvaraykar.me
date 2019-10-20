@@ -10,3 +10,5 @@ I'm not that good at describing myself so I let a friend who cannot draw Santa C
 > Atharva has an odd sense of humour and the curiosity of a five-year old. He is moderately easy to talk to and will most definitely *appear* like he knows everything about everything.
 
 I got a free server, a free domain, and a lot of free time, and that's why you are seeing this.
+
+You can find my résumé [here](/resume.pdf).
