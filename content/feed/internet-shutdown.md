@@ -1,6 +1,8 @@
 ---
 title: "Non-Controversial Opinion: Internet Shutdowns"
 date: 2019-12-21T13:45:50+05:30
+tags: ["opinion"]
+type: posts
 ---
 
 You'd think it's easy to agree that internet shutdowns are an uncontroversially terrible idea, except the Indian Government loves to do them so much, that I don't even know anymore.
